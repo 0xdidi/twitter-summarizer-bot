@@ -1,2 +1,2 @@
-# twitter-summarizer-bot-
+# twitter-summarizer-bot
 
